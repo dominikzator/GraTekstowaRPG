@@ -1,9 +1,6 @@
 // GraTekstowaRPG.cpp : Defines the entry point for the console application.
 //
 
-// LAB8PO.cpp : Defines the entry point for the console application.
-//
-
 #include <iostream>
 #include <conio.h>
 #include <time.h>
